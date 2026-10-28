@@ -1,0 +1,7 @@
+NetLab
+All rights reserved.
+
+此下载包提供编译后的程序及使用说明，源代码不公开。
+内含的 Microsoft .NET 运行时组件遵循各自许可；相关声明与许可见
+https://github.com/dotnet/runtime/blob/main/THIRD-PARTY-NOTICES.TXT
+
